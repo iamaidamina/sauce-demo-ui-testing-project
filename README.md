@@ -1,6 +1,6 @@
-#Sauce Demo UI Automation Project
+# Sauce Demo UI Automation Project
 
-Purpose:
+## Purpose:
 Automate sauce demo page UI using a variety of software automation tools
 
 
