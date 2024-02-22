@@ -10,6 +10,6 @@ Automate sauce demo page's UI using a variety of software automation tools
 
 ## Look! Basic login page automation in action:"
 
-![Alt Tex]()
+![Alt Tex](Playwright/test-results/login-Login-should-allow-me-to-login-in-sauce-demo-page-chromium/video.gif)
 
 ## Project in progress... 🚀
