@@ -8,7 +8,7 @@ Automate sauce demo page's UI using a variety of software automation tools
 
 1. Playwrigth [:file_folder:](Playwright)
 
-## Look! Basic login page automation in action:"
+## Look! Basic login page automation in action:
 
 ![Alt Tex](Playwright/test-results/login-Login-should-allow-me-to-login-in-sauce-demo-page-chromium/video.gif)
 
